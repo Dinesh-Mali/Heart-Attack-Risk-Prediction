@@ -6,3 +6,10 @@ Main Aim of this project is to predict whether a person is having a risk of hear
 
 # Project Flow
 
+1) Data Analysis - Finding out Different relations.
+
+2) Feature Engineering - Processing the data before it feeding to the model.
+
+3) Model Building using ML - Using ML/Dl Algorithms.
+
+4) Model Building using Auto ML.
