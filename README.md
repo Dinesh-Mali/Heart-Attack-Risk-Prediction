@@ -12,4 +12,4 @@ Main Aim of this project is to predict whether a person is having a risk of hear
 
 3) Model Building using ML - Using ML/Dl Algorithms.
 
-4) Model Building using Auto ML.
+4) Model Building using Auto ML. 
